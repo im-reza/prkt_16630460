@@ -17,7 +17,7 @@
                     <!-- /.panel-heading -->
                     <div class="panel-body">
                         <div class="well">
-                            <a class="btn btn-primary btn-lg btn-block" href="<?= base_url('laporan/barang/cetak'); ?>">Cetak Data Barang</a>
+                            <a class="btn btn-primary btn-lg btn-block" target="_blank" href="<?= base_url('laporan/barang/cetak'); ?>">Cetak Data Barang</a>
                         </div>
                     </div>
                     <!-- /.panel-body -->
